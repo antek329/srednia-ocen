@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Zmiana kodowania ASCII na UTF 8
 # -*- coding: utf-8 -*-
 x = 0.00
 def Restart():
